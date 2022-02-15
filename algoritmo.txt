@@ -1,0 +1,16 @@
+preguntar cual es el nombre 
+guardar el nombre como variable
+preguntar por la edad 
+guardar la edad como variable 
+preguntar si esta casado 
+en caso de estarlo preguntar la edad del conyuge
+preguntar si tiene hijos
+en caso de tenerlos pregunra cuantos tiene 
+dependiendo de la edad del asegurado hacer los calculos de porcentaje
+en caso de que tenga conyuge hacer los calculos de porcentaje dependiendo de la edad del conyuge
+en caso de que tenga hijos hacer los calculos de porcentaje dependiendo de la cantidad de hijos
+sumar los porcentajes
+sumar los porcentajes con el precio base
+enseñar un mensaje que le diga su nombre
+enseñar un mensaje que le diga el monto de recargos
+enseñar un mensaje con el precio total.
